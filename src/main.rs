@@ -19,5 +19,7 @@ struct Cli {
 
 
 fn main() {
+    let cli = Cli::parse();
+
     println!("Hello, world!");
 }
