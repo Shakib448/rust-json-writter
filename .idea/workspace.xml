@@ -7,7 +7,10 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1fc801-e011-426f-8533-b27ef2ac7cd9" name="Changes" comment="" />
+    <list default="true" id="0a1fc801-e011-426f-8533-b27ef2ac7cd9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Cargo.Run json-writer.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -98,6 +102,8 @@
       <workItem from="1735534401664" duration="10000" />
       <workItem from="1735534418338" duration="18000" />
       <workItem from="1735534441683" duration="25000" />
+      <workItem from="1735534473877" duration="178000" />
+      <workItem from="1735534657357" duration="5000" />
     </task>
     <servers />
   </component>
