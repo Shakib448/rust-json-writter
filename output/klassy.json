@@ -1,0 +1,5 @@
+{
+  "error": "Not Found",
+  "message": "Cannot GET /api",
+  "statusCode": 404
+}
