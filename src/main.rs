@@ -18,8 +18,12 @@ struct Cli {
     url : String
 }
 
-
-fn main()  -> Result<(), Box<dyn std::error::Error>> {
+fn main() {
+    if let Err(e) = run() {
+        eprintln!("Failed to write JSON: {}", e);
+    }
+}
+fn run()  -> Result<(), Box<dyn std::error::Error>> {
     let cli = Cli::parse();
 
     let output_dir = "output";
